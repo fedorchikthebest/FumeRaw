@@ -1,7 +1,7 @@
 {
   "url": "https://t.me/FumeGame_bot",                        // required
   "name": "FumeGame",                      // required
-  "iconUrl": "https://raw.githubusercontent.com/fedorchikthebest/fume_raw/main/photo_2024-07-10_17-17-18.jpg>",               // required
+  "iconUrl": "https://raw.githubusercontent.com/fedorchikthebest/fume_raw/main/photo_2024-07-10_17-17-18.jpg"          // required
   //"termsOfUseUrl": "<terms-of-use-url>",     // optional
   //"privacyPolicyUrl": "<privacy-policy-url>" // optional
 }
